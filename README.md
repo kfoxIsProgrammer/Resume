@@ -1,5 +1,5 @@
 # Resume
-HTML Resume site, running on Node.JS
+HTML Resume site, running on Node.JS and hosted on AWS EC2
 
 This Site was used to practice my fullstack development using node.js as my server side.
 
