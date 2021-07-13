@@ -1,11 +1,11 @@
 # Resume
-HTML Resume site, running on Node.JS
+HTML Resume site, running on Node.JS and hosted on AWS EC2
 
-Readme:This was a small project to familiarize myself with fullstack development and deploying web projects.
+This Site was used to practice my fullstack development using node.js as my server side.
 
-Author:Kevin Fox 
+Author: Kevin Fox
 
-Changelog: 
-July 15, 2019: Changed files to min, to reduce net transfer. Also added compression.
+Changelog:
+2019-7-15: Added min versions of HTML,JS,CSS. Added Compression to index.js (Server)
 
-
+Technologies: AWS EC2 running Ubuntu, Node.JS, HTML, CSS and JS used for this project.
