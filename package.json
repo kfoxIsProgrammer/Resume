@@ -1,0 +1,20 @@
+{
+  "name": "Resume",
+  "version": "1.0.0",
+  "description": "HTML Resume site, running on Node.JS and hosted on AWS EC2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfoxIsProgrammer/Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfoxIsProgrammer/Resume/issues"
+  },
+  "homepage": "https://github.com/kfoxIsProgrammer/Resume#readme"
+}
